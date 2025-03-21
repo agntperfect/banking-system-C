@@ -27,7 +27,7 @@ To compile and run the project, follow these steps:
 ## Files
 
 
-`main.c`: The main entry point of the banking system application. It handles user input, initializes the system, and calls the appropriate functions to perform banking operations.
+- `main.c`: The main entry point of the banking system application. It handles user input, initializes the system, and calls the appropriate functions to perform banking operations.
 - `account_create.h`: Header file containing function declarations for account creation.
 - `banking_system.c`: Source code file containing functions for deposit, withdrawal, and balance inquiry operations.
 - `README.md`: This file, providing an overview and instructions for the project.
